@@ -6,7 +6,7 @@ def create_an_array
   hiking = ["backpack", "axe", "boots", "tent"]
 end
 
-def add_element_to_end_of_array(hiking, "food")
+def add_element_to_end_of_array(hiking, food)
   hiking << "food"
 end
 
